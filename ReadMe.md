@@ -26,9 +26,9 @@ to demonstrate the following  functionalities of the application.
 This application can be later modified to either take user input
    or act as a server for external components.
 ### Block Diagram
-![HLD](../HLD.jpg)
+![HLD](/diagram/HLD.jpg)
 ### Low Level Diagram
-![LLD](../LLD.jpg)
+![LLD](/diagram/LLD.jpg)
 
 #### Pre Requisites to Run the Application
 1. Java 11
